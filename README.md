@@ -1,0 +1,1 @@
+[![CircleCI](https://circleci.com/gh/Sergl82/ajs-map/tree/main.svg?style=svg)](https://circleci.com/gh/Sergl82/ajs-map/tree/main)
